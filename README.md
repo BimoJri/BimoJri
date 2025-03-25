@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# GM World!, I'm BimoJri, a Person had deeply interest with WEB 3 👋🏼:
+🛜 currently working on my own [webpage](https://linkcase.my.id/)<br>👨🏼‍🎓 studying media based computer science at University<br>👨🏼‍💻 Learn as a web developer since 2022 <br>🎬 Currently Love in the web3 industry <i>Bimojri</i>
 
 
 # 💻 Tech Stack:
