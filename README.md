@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# GM World!, I'm BimoJri, currently had deep interest in web3👋🏼
-🛜 currently working on my own [webpage](https://linkcase.my.id/)<br>👨🏼‍🎓 studying media based computer science at University<br>👨🏼‍💻 Learn as a web developer since 2022 <br>🎬 Currently Love in the <i>web3</i> industry 
+# GM World!, I'm BimoJri, had a deep interest in web3👋🏼
+🛜 working on my own [webpage](https://linkcase.my.id/)<br>👨🏼‍🎓 studying media based computer science at University<br>👨🏼‍💻 Learn as a web developer since 2022 <br>🎬 Currently Love in the <i>web3</i> industry 
 
 
 # 💻 Tech Stack:
